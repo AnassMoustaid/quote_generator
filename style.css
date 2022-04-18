@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    padding: 20px;
+    background-image: url(lamp.webp) ;
+}
+
+.container{
+    width: 80%;
+    height: 30vh;
+    margin: auto;
+    background-color: #C6C595;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-radius: 30px;
+    text-align: center
+}
+
+.quote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    
+}
+
+.author {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px
+    
+}
+
+.generator{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
